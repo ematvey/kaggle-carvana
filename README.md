@@ -13,7 +13,7 @@ Framework: PyTorch
 ## Running
 
 1. Extract competition data in `input/`
-2. Preprocess data with `python dataset.py` ()
+2. Preprocess data with `python dataset.py` (20 min)
 3. Train to convergence with `python train.py` (12+ hours)
 4. If necessary, generate submission with `python make_submission.py`
 
